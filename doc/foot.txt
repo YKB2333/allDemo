@@ -1,0 +1,3 @@
+查看vue版本 vue -V 
+安装 npm install -g @vue/cli
+创建 vue create my-project
